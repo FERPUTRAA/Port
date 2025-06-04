@@ -310,7 +310,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
   #website-frame {
-    width: 100%;
+    width: 150%;
     height: 500px;
     border: none;
     margin-bottom: 20px;
