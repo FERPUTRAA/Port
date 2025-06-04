@@ -813,6 +813,11 @@ section {
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
+.testimonials .testimonial-item {
+  display: block;
+}
+
+
 .testimonials .section-header {
   margin-bottom: 40px;
 }
